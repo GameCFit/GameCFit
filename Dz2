@@ -13,7 +13,7 @@ class Program
         long allscore;
         ulong score;
         char statement;
-        bool check;
+        bool isrun;
         string name="Andrey";
     }
 }
