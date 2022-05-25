@@ -4,16 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        byte b;
-        sbyte sb;
-        short s;
-        ushort us;
-        int i;
-        uint ui;
-        long l;
-        ulong ul;
-        char c;
-        bool bol;
-        string str;
+        byte positive;
+        sbyte all;
+        short allnumber;
+        ushort number;
+        int allcoin;
+        uint coin;
+        long allscore;
+        ulong score;
+        char statement;
+        bool check;
+        string name="Andrey";
     }
 }
