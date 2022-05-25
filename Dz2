@@ -6,14 +6,14 @@ class Program
     {
         byte positive;
         sbyte all;
-        short allnumber;
+        short allNumber;
         ushort number;
-        int allcoin;
+        int allCoin;
         uint coin;
-        long allscore;
+        long allScore;
         ulong score;
         char statement;
-        bool isrun;
+        bool isRun;
         string name="Andrey";
     }
 }
